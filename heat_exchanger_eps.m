@@ -6,6 +6,8 @@ function [eps] = heat_exchanger_eps (NUT, Cr, type, n)
     %  by BERGMAN, T. L., LAVINE, A. S., INCROPERA, F. P. 
     %  and DEWITT, D. P.. Table 11.3 pp 724.
     %
+    %  Thanks to Professor Nelson Fernandes Inforzato for providential help
+    %
     % Input parameters explained:
     %
     %   NUT: number of transfer units (U A / Cmin)
