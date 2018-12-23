@@ -6,6 +6,8 @@ function [NUT] = heat_exchanger_nut (eps, Cr, type, n)
     %  by BERGMAN, T. L., LAVINE, A. S., INCROPERA, F. P. 
     %  and DEWITT, D. P.. Table 11.4 pp 724.
     %
+    %  Thanks to Professor Nelson Fernandes Inforzato for providential help
+    %
     % Input parameters explained:
     %
     %   eps: heat exchanger effectiveness (q / qmax)
