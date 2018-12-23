@@ -4,7 +4,7 @@ function [NUT] = heat_exchanger_nut (eps, Cr, type, n)
     %  effectiveness and heat capacity ratio folowing textbook
     %  Fundamentals of Heat and Mass Transfer (7th ed.) 
     %  by BERGMAN, T. L., LAVINE, A. S., INCROPERA, F. P. 
-    %  and DEWITT, D. P.. Table 11.3 pp 724.
+    %  and DEWITT, D. P.. Table 11.4 pp 724.
     %
     % Input parameters explained:
     %
